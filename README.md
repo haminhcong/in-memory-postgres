@@ -1,3 +1,3 @@
-# in-memory-postgres
+# in-memory-postgres-docker-image
 
-Container image allow run postgres database server on a temporary in-memory disk storage
+Docker Container image allow run postgres database server on a temporary in-memory disk storage
